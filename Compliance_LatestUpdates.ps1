@@ -21,7 +21,7 @@
 
     Me, added support for multi-language information message (in json).
 
-    Deploy script as Custm Compliance Policy.
+    Deploy script as Custom Compliance Policy.
 
 #>
 [datetime]$dtToday = [datetime]::NOW
