@@ -1,0 +1,23 @@
+{
+"Rules":[ 
+    { 
+       "SettingName":"Update status",
+       "Operator":"IsEquals",
+       "DataType":"String",
+       "Operand":"Up-to-date",
+       "MoreInfoUrl":"https://www.microsoft.com",
+       "RemediationStrings":[ 
+         { 
+             "Language":"es_ES",
+             "Title":"El equipo debe tener instaladas las actualizaciones Windows más recientes.",
+             "Description": "Por favor asegúrese de instalar las últimas actualizaciones lo más pronto posible."
+         },
+         { 
+            "Language":"en_US",
+             "Title":"Device must be running the latest cumulative update for Windows.",
+             "Description": "Please make sure that the latest cumulative update for Windows is installed."
+         }
+       ]
+    }
+ ]
+}
